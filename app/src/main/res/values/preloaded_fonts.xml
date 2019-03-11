@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta</item>
+        <item>@font/basic</item>
+        <item>@font/baumans</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/cambay</item>
+        <item>@font/dosis</item>
+        <item>@font/eb_garamond</item>
+        <item>@font/emblema_one</item>
+        <item>@font/habibi</item>
+        <item>@font/hammersmith_one</item>
+        <item>@font/lemon</item>
+        <item>@font/rajdhani</item>
+        <item>@font/satisfy</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_bold</item>
+        <item>@font/ubuntu_bold_italic</item>
+    </array>
+</resources>
